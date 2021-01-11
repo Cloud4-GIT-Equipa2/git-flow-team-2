@@ -1,0 +1,1 @@
+Git Status é um comando do Git que fornece todas as informações necessárias sobre o branch atual, mais concretamente exibe a lista de arquivos alterados juntamente com os arquivos que ainda não foram adicionados ou confirmados.
