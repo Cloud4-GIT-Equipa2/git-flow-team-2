@@ -1,0 +1,22 @@
+
+
+Reflog :
+O comando "gif reflog" serve para ver o histórico de todas as mudanças realizadas no repositório.
+
+
+Branch :
+To determine what branch the local repository is on, add a new branch, or delete a branch...
+
+
+Commit :
+The "commit" command is used to save your changes to the local repository.
+
+
+Status:
+Git Status é um comando do Git que fornece todas as informações necessárias sobre o
+branch atual, mais concretamente exibe a lista de arquivos alterados juntamente com os
+arquivos que ainda não foram adicionados ou confirmados.
+
+
+Checkout :
+Change working branch.
