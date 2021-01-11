@@ -1,0 +1,1 @@
+O comando "gif reflog" serve para ver o histórico de todas as mudanças realizadas no repositório.
